@@ -16,7 +16,7 @@ print("""
       2 - Sacar
       0 - Sair
 
-       ================================
+      ==================================
       
      Obrigado por usar o nosso sistema!!!
       
